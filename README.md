@@ -7,6 +7,9 @@
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and video games.
 - 📫 erfatihsuleyman@gmail.com
 
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=fatihser&show_icons=true&theme=gradient) 
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=fatihser&show_icons=true&theme=radical)
+
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="24px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
@@ -23,7 +26,6 @@
 
 
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=fatihser&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=fatihser&show_icons=true&theme=radical)
+
 
 
