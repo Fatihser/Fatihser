@@ -17,7 +17,7 @@
 
 
 
-[linkedin]: [ttps://www.linkedin.com/in/ibrahim-talha-demir-4b513a1a9/](https://tr.linkedin.com/in/fatihsuleymaner?trk=public_profile_samename-profile)
+[linkedin]: [(https://tr.linkedin.com/in/fatihsuleymaner?trk=public_profile_samename-profile)]
 [gmail]: mailto:erfatihsuleyman@gmail.com
 
 
