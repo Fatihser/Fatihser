@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning web,win app development with .NET and game development with Unity.
 - 👯 I’m looking to collaborate with other Unity developer/.NET developer 👩‍💻 and 2D/3D Artists. 🎨
 - 🤔 I’m looking for help with Unity/.NET developer
-- 🥅 2023 Goals: Developing an game to be heard in the world 🌎 and learning .NET Development 🤖
+- 🥅 2023 Goals: Developing a game to be heard in the world 🌎 and learning .NET Development 🤖
 - ⚡ Fun fact: I love to swim 🏊‍♀️, play chess ♟, play basketball 🏀 and video games.
 - 📫 erfatihsuleyman@gmail.com
 
