@@ -26,7 +26,7 @@
 
 [linkedin]: https://tr.linkedin.com/in/fatihsuleymaner?trk=public_profile_samename-profile
 [gmail]: mailto:erfatihsuleyman@gmail.com
-[playstore]: [https://googleplaystore.com](https://play.google.com/store/apps/dev?id=5928549637890958083)
+[playstore]: https://googleplaystore.com](https://play.google.com/store/apps/dev?id=5928549637890958083
 
 
 
