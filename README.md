@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Fatih Suleyman Er
 - 🔭 I’m currently working on a mid core mobile game with unity(personal project) and Software engineer(.NET) at DAS/EB Group.
-- 🌱 I’m currently learning web,win app development with .NET and game development with Unity.
+- 🌱 I’m currently learning web,win app,service development with .NET and game development with Unity.
 - 👯 I’m looking to collaborate with other Unity/.NET developer 👩‍💻 and 2D/3D Artists. 🎨
 - 🤔 I’m looking for help with Unity/.NET developer
 - 🥅 2023 Goals: Developing a game to be heard in the world 🌎 and learning .NET Development 🤖
