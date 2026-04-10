@@ -12,10 +12,6 @@
 
 
 
-<br />
-
-
-
 
 [linkedin]: https://tr.linkedin.com/in/fatihsuleymaner?trk=public_profile_samename-profile
 [gmail]: mailto:erfatihsuleyman@gmail.com
