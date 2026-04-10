@@ -1,8 +1,5 @@
 - 📫 erfatihsuleyman@gmail.com
 
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=fatihser&show_icons=true&theme=gradient) 
-![Github stats 2](https://github-readme-stats.vercel.app/api?username=fatihser&show_icons=true&theme=radical)
-
 ### 📩 Connect with me:
 
 [<img align="left" alt="linkedin | LinkedIn" width="32px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />][linkedin]
