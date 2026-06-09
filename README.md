@@ -19,7 +19,7 @@
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Fatih+%F0%9F%91%8B;Software+Developer;.NET+%7C+C%23+%7C+Unity+%7C+Python;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&height=70&lines=Hi%2C+I'm+Fatih+%F0%9F%91%8B;Software+Specialist;.NET+%7C+C%23+%7C+Unity+%7C+Python;Always+learning+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Social / contact badges -->
