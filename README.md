@@ -42,7 +42,7 @@
 ```typescript
 const me: Developer = {
   role: "Software Specialist",
-  location: "Türkiye",
+  location: "Turkey",
   languages: ["C#", "Python", "JavaScript"],
   frameworks: [".NET", "Unity", "Selenium"],
   focus: ["Backend", "Automation", "Game Dev", "Reporting Systems"],
