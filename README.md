@@ -1,14 +1,15 @@
 <!--
 ============================================================
   GITHUB PROFILE README
+  ----------------------------------------------------------
+  DOLDURMAN GEREKENLER:
+   - SENIN_MAILIN@example.com   -> mailin
+   - OYUN_SAYFASI_LINKIN        -> itch.io / oyun sayfan linki
 ============================================================
 -->
 
 <!-- ====================== HEADER / BANNER ====================== -->
 <div align="center">
-
-<!-- Put your own banner here if you want: -->
-<!-- <img src="banner.png" width="100%" alt="banner"/> -->
 
 <!-- Animated typing header -->
 <a href="https://git.io/typing-svg">
@@ -23,9 +24,9 @@
   <a href="mailto:SENIN_MAILIN@example.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <!--<a href="https://twitter.com/TWITTER_KULLANICI_ADIN">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
-  </a>-->
+  <a href="OYUN_SAYFASI_LINKIN">
+    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"/>
+  </a>
 </p>
 
 <!-- Profile views counter -->
@@ -54,6 +55,7 @@ const me: Developer = {
 - 🎮 I developed **gamified orientation/training** experiences with **Unity**.
 - 🤖 I write automation and web-scraping tools with **Python & Selenium**.
 - 🎓 Graduate of the **Google Game and App Academy** (Game Development / Unity).
+- 🕹️ Check out my games on **[itch.io](OYUN_SAYFASI_LINKIN)**!
 - 🌱 Always learning new technologies and improving my craft.
 
 ---
@@ -63,7 +65,22 @@ const me: Developer = {
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,unity,selenium,mysql,git,github,vscode,visualstudio,postman&theme=dark&perline=6" alt="tech stack" />
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,html,css,bootstrap,unity,selenium,mysql,docker,azure,linux,git,github,vscode,visualstudio,postman&theme=dark&perline=9" alt="tech stack" />
+
+</div>
+
+---
+
+<!-- ====================== GAME DEV ====================== -->
+## 🎮 Game Development
+
+<div align="center">
+
+I build games with **Unity & C#**. You can play and download my projects here:
+
+<a href="OYUN_SAYFASI_LINKIN">
+  <img src="https://img.shields.io/badge/Play%20my%20games%20on%20itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io games"/>
+</a>
 
 </div>
 
