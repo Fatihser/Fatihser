@@ -4,7 +4,7 @@
   ----------------------------------------------------------
   DOLDURMAN GEREKENLER:
    - SENIN_MAILIN@example.com   -> mailin
-   - OYUN_SAYFASI_LINKIN        -> itch.io / oyun sayfan linki
+   - PLAY_STORE_LINKIN          -> Google Play gelistirici/uygulama sayfan
 ============================================================
 -->
 
@@ -21,11 +21,11 @@
   <a href="https://www.linkedin.com/in/fatihsuleymaner/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:SENIN_MAILIN@example.com">
+  <a href="mailto:erfatihsuleyman@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="OYUN_SAYFASI_LINKIN">
-    <img src="https://img.shields.io/badge/itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io"/>
+  <a href="PLAY_STORE_LINKIN">
+    <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
 </p>
 
@@ -55,7 +55,7 @@ const me: Developer = {
 - 🎮 I developed **gamified orientation/training** experiences with **Unity**.
 - 🤖 I write automation and web-scraping tools with **Python & Selenium**.
 - 🎓 Graduate of the **Google Game and App Academy** (Game Development / Unity).
-- 🕹️ Check out my games on **[itch.io](OYUN_SAYFASI_LINKIN)**!
+- 🕹️ Check out my games on **[Google Play](PLAY_STORE_LINKIN)**!
 - 🌱 Always learning new technologies and improving my craft.
 
 ---
@@ -76,10 +76,10 @@ const me: Developer = {
 
 <div align="center">
 
-I build games with **Unity & C#**. You can play and download my projects here:
+I build and publish mobile games with **Unity & C#**. You can download my games here:
 
-<a href="OYUN_SAYFASI_LINKIN">
-  <img src="https://img.shields.io/badge/Play%20my%20games%20on%20itch.io-FA5C5C?style=for-the-badge&logo=itchdotio&logoColor=white" alt="itch.io games"/>
+<a href="PLAY_STORE_LINKIN">
+  <img src="https://img.shields.io/badge/Play%20my%20games%20on%20Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play games"/>
 </a>
 
 </div>
