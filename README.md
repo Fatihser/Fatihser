@@ -63,23 +63,7 @@ const me: Developer = {
 
 <div align="center">
 
-### Languages
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-
-### Frameworks & Libraries
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-
-### Tools & Environment
-![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<img src="https://skillicons.dev/icons?i=cs,dotnet,py,js,unity,selenium,mysql,git,github,vscode,visualstudio,postman&theme=dark&perline=6" alt="tech stack" />
 
 </div>
 
@@ -90,31 +74,13 @@ const me: Developer = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fatihser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatihser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&cache_seconds=86400"/>
+<img src="https://streak-stats.demolab.com?user=Fatihser&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF" alt="streak stats"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Fatihser&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatihser&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=ffffff&area=true" width="100%"/>
-
-</div>
-
----
-
-<!-- ====================== TROPHIES ====================== -->
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Fatihser&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&cache_seconds=86400"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatihser&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=ffffff&area=true" width="100%" alt="activity graph"/>
 
 </div>
 
@@ -130,5 +96,13 @@ const me: Developer = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fatihser/Fatihser/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Fatihser/Fatihser/output/github-contribution-grid-snake.svg" />
 </picture>
+
+</div>
+
+<div align="center">
+
+<br/>
+
+<i>⚡ Powered by coffee and curiosity</i>
 
 </div>
