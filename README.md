@@ -47,7 +47,7 @@
 
 ```typescript
 const me: Developer = {
-  role: "Software Developer",
+  role: "Software Specialist",
   location: "Türkiye",
   languages: ["C#", "Python", "JavaScript"],
   frameworks: [".NET", "Unity", "Selenium"],
@@ -95,13 +95,13 @@ const me: Developer = {
 <!-- ====================== EXPERIENCE ====================== -->
 ## 💼 Experience
 
-> **Software Developer** — *SIRKET_ADI* &nbsp;`(Yil - Yil)`
+> **Software Specialist** — ** &nbsp;``
 > - Built **carbon footprint, water footprint** and **HSE** tracking & reporting systems with **.NET**.
 > - Developed **daily production reporting** modules for power plants, enabling real-time monitoring.
 > - Designed an interactive, **gamified orientation** experience using **Unity**.
 > - Created internal automation / web-scraping tools with **Python & Selenium**.
 
-> **Software Developer** — *SIRKET_ADI* &nbsp;`(Yil - Yil)`
+> **Software Specialist** — *SIRKET_ADI* &nbsp;``
 > - Developed **archiving and document-scanning** applications with **.NET**.
 > - Handled **debugging and troubleshooting** processes.
 > - Provided **technical support** to existing clients.
