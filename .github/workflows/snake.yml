@@ -1,0 +1,42 @@
+# ============================================================
+#  SNAKE ANIMASYONU İÇİN GITHUB ACTION
+#  ----------------------------------------------------------
+#  Bu dosyayı şu yola koy:
+#    .github/workflows/snake.yml
+#  (kendi profil repo'nda: github.com/KULLANICI_ADIN/KULLANICI_ADIN)
+#
+#  Kurduktan sonra Actions sekmesinden bir kez manuel çalıştır
+#  (Run workflow). Sonra her 12 saatte bir otomatik güncellenir.
+# ============================================================
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # 12 saatte bir
+  workflow_dispatch:          # elle çalıştırma butonu
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    permissions:
+      contents: write
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Generate snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v4.0.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
