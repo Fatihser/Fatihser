@@ -24,7 +24,7 @@
   <a href="mailto:erfatihsuleyman@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="PLAY_STORE_LINKIN">
+  <a href="https://play.google.com/store/apps/dev?id=5928549637890958083">
     <img src="https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play"/>
   </a>
 </p>
@@ -55,7 +55,7 @@ const me: Developer = {
 - 🎮 I developed **gamified orientation/training** experiences with **Unity**.
 - 🤖 I write automation and web-scraping tools with **Python & Selenium**.
 - 🎓 Graduate of the **Google Game and App Academy** (Game Development / Unity).
-- 🕹️ Check out my games on **[Google Play](PLAY_STORE_LINKIN)**!
+- 🕹️ Check out my games on **[Google Play](https://play.google.com/store/apps/dev?id=5928549637890958083)**!
 - 🌱 Always learning new technologies and improving my craft.
 
 ---
@@ -78,7 +78,7 @@ const me: Developer = {
 
 I build and publish mobile games with **Unity & C#**. You can download my games here:
 
-<a href="PLAY_STORE_LINKIN">
+<a href="https://play.google.com/store/apps/dev?id=5928549637890958083">
   <img src="https://img.shields.io/badge/Play%20my%20games%20on%20Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play games"/>
 </a>
 
