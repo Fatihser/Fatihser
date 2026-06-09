@@ -1,13 +1,6 @@
 <!--
 ============================================================
   GITHUB PROFILE README
-  ----------------------------------------------------------
-  Most placeholders are already filled (username: Fatihser).
-  Remaining things to fill:
-    - SENIN_MAILIN@example.com  -> your email
-    - SIRKET_ADI (x2)           -> company names
-    - Yil - Yil                 -> years
-  Use Ctrl+F to find & replace.
 ============================================================
 -->
 
@@ -92,52 +85,22 @@ const me: Developer = {
 
 ---
 
-<!-- ====================== EXPERIENCE ====================== -->
-## 💼 Experience
-
-> **Software Specialist** — 
-> - Built **carbon footprint, water footprint** and **HSE** tracking & reporting systems with **.NET**.
-> - Developed **daily production reporting** modules for power plants, enabling real-time monitoring.
-> - Designed an interactive, **gamified orientation** experience using **Unity**.
-> - Created internal automation / web-scraping tools with **Python & Selenium**.
-
-> **Software Specialist** 
-> - Developed **archiving and document-scanning** applications with **.NET**.
-> - Handled **debugging and troubleshooting** processes.
-> - Provided **technical support** to existing clients.
-
-> 🎓 **Google Game and App Academy** — *Game Development (Unity)*
-> - Selected as one of 2,000 scholars among ~40,000 applicants.
-> - Completed the game development track with **Unity & C#**.
-> - Earned the **Google Project Management Certificate** (Coursera) + 400+ hours of technical training.
-
----
-
 <!-- ====================== GITHUB STATS ====================== -->
 ## 📊 GitHub Stats
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fatihser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatihser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fatihser&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=2DD4BF&icon_color=2DD4BF&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fatihser&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=2DD4BF&cache_seconds=86400"/>
 
 </div>
 
-<!--
-  NOT: Onceki streak karti github-readme-streak-stats.herokuapp.com
-  uzerinden geliyordu ve o servis sik sik coKuyor (bu yuzden kirik
-  gorunuyordu). Daha stabil olan demolab adresine gecirildi.
--->
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=Fatihser&theme=tokyonight&hide_border=true&background=0D1117&ring=2DD4BF&fire=2DD4BF&currStreakLabel=2DD4BF"/>
 
 </div>
 
-<!--
-  Activity graph: yeni/az commit'li hesaplarda bos ya da gec yuklenir.
-  Calismasi icin hesapta birkac public commit olmasi yeterli.
--->
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Fatihser&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=2DD4BF&line=2DD4BF&point=ffffff&area=true" width="100%"/>
@@ -149,14 +112,9 @@ const me: Developer = {
 <!-- ====================== TROPHIES ====================== -->
 ## 🏆 Trophies
 
-<!--
-  NOT: no-bg=true bazen seffaf/kirik gorunmesine yol aciyordu.
-  no-bg kaldirildi, boylece her zaman render olur.
-  Trophy'ler hesap aktivitesine gore dolar; yeni hesapta az gorunebilir.
--->
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=Fatihser&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Fatihser&theme=tokyonight&no-frame=true&column=7&margin-w=8&margin-h=8&cache_seconds=86400"/>
 
 </div>
 
@@ -165,11 +123,6 @@ const me: Developer = {
 <!-- ====================== SNAKE ANIMATION ====================== -->
 ## 🐍 Contribution Snake
 
-<!--
-  This animation does NOT work on its own; you must set up a GitHub Action.
-  Put snake.yml under .github/workflows/ and run it once from the Actions tab.
-  Until then this image will appear broken.
--->
 <div align="center">
 
 <picture>
@@ -177,18 +130,5 @@ const me: Developer = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Fatihser/Fatihser/output/github-contribution-grid-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/Fatihser/Fatihser/output/github-contribution-grid-snake.svg" />
 </picture>
-
-</div>
-
----
-
-<!-- ====================== QUOTE ====================== -->
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="random dev quote"/>
-
-<br/><br/>
-
-⭐️ *"Make it work, make it right, make it fast."*
 
 </div>
