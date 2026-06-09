@@ -95,13 +95,13 @@ const me: Developer = {
 <!-- ====================== EXPERIENCE ====================== -->
 ## 💼 Experience
 
-> **Software Specialist** — ** &nbsp;``
+> **Software Specialist** — 
 > - Built **carbon footprint, water footprint** and **HSE** tracking & reporting systems with **.NET**.
 > - Developed **daily production reporting** modules for power plants, enabling real-time monitoring.
 > - Designed an interactive, **gamified orientation** experience using **Unity**.
 > - Created internal automation / web-scraping tools with **Python & Selenium**.
 
-> **Software Specialist** — *SIRKET_ADI* &nbsp;``
+> **Software Specialist** 
 > - Developed **archiving and document-scanning** applications with **.NET**.
 > - Handled **debugging and troubleshooting** processes.
 > - Provided **technical support** to existing clients.
