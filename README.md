@@ -17,7 +17,7 @@
 
 <!-- Animasyonlu typing başlık -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&height=70&lines=Merhaba%2C+ben+ADIN+%F0%9F%91%8B;Software+Developer;.NET+%7C+C%23+%7C+Unity+%7C+Python;Hep+%C3%B6%C4%9Frenmeye+a%C3%A7%C4%B1k+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=800&color=2DD4BF&center=true&vCenter=true&width=600&height=70&lines=Merhaba%2C+ben+Fatih+%F0%9F%91%8B;Software+Developer;.NET+%7C+C%23+%7C+Unity+%7C+Python;Hep+%C3%B6%C4%9Frenmeye+a%C3%A7%C4%B1k+%F0%9F%9A%80" alt="Typing SVG" />
 </a>
 
 <!-- Sosyal / iletişim rozetleri -->
